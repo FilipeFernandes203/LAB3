@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">LAB3</string>
+    <string name="Welcome" translatable="false">Welcome to the App</string>
 </resources>
